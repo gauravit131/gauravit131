@@ -4,7 +4,6 @@
 🤖 Aspiring AI / ML Engineer  
 📊 Strong interest in Machine Learning, Deep Learning & System Design  
 
----
 
 ## 🔧 Tech Stack
 - **Languages:** Python, C++, JavaScript  
@@ -27,5 +26,5 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: git14813@gmail.com  
+
