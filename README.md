@@ -1,16 +1,31 @@
-## Hi there 👋
+# Gaurav Singh 👋
 
-<!--
-**gauravit131/gauravit131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT @ NIT Jalandhar  
+🤖 Aspiring AI / ML Engineer  
+📊 Strong interest in Machine Learning, Deep Learning & System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **ML:** NumPy, Pandas, Scikit-Learn  
+- **Web:** HTML, CSS, React  
+- **Tools:** Git, GitHub, VS Code, Jupyter  
+
+---
+
+## 🚀 Featured Projects
+- 🌊 **Flood & Landslide Prediction** – ML-based disaster prediction system  
+- 🎬 **Movie Recommendation System** – Content-based filtering  
+- 🤖 **ML Learning Playground** – Practice repo for algorithms  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravit131&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: your-email@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/your-profile
