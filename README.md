@@ -1,4 +1,4 @@
-# Gaurav Singh 👋
+# Gaurav 👋
 
 🎓 B.Tech IT @ NIT Jalandhar  
 🤖 Aspiring AI / ML Engineer  
