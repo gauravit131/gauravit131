@@ -25,6 +25,6 @@
 
 ---
 
-## 📫 Connect With Me
+- 📫 Connect With Me
 - 📧 Email: git14813@gmail.com  
 
